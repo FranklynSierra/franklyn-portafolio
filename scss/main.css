@@ -66,7 +66,10 @@
   margin: 0.5rem;
 }
 .about .jobs__job .dalto {
-  color: #000;
+  color: #ff635f;
+}
+.about .jobs__job .dalto:hover {
+  text-decoration: underline;
 }
 .about .jobs__job h6 {
   font-size: 1rem;
